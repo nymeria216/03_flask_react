@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# some links i think are usefull
+
+This Link may help to understand how to create a flask and react application:
+Open [dev.to](https://dev.to/ondiek/connecting-a-react-frontend-to-a-flask-backend-h1o) to view it in your browser.
+Open [geeksforgeeks.org](https://www.geeksforgeeks.org/how-to-connect-reactjs-with-flask-api/) to view in your browser.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
